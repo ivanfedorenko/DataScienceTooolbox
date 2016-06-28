@@ -1,2 +1,2 @@
 # DataScienceTooolbox
-Samples and working materials for DST on Coursera
+Its just a sample of branching and commit messaging
